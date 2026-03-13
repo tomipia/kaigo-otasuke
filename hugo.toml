@@ -1,0 +1,11 @@
+baseURL = 'https://kaigo-otasuke.jp/'
+languageCode = "ja"
+title = "介護おたすけ"
+theme = "PaperMod"
+
+[params]
+  description = "介護保険の手続きをわかりやすく解説します"
+  defaultTheme = "light"
+
+[taxonomies]
+  tag = "tags"
