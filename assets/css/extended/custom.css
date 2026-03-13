@@ -1,5 +1,15 @@
-.h1 {
+.hl {
     background-color: #fff0b3;
-    padding: 1px 3px;
+    padding: 4px 3px;
     border-radius: 2px;
+    font-weight: bold;
+}
+
+.post-content h2 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.post-content h3 {
+    font-size: 1.05rem;
 }
